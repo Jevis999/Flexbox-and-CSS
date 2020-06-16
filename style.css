@@ -1,0 +1,20 @@
+h1 { 
+    color: brown; }
+ * {
+     border:solid ; }
+     .Header{background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+    }
+    .Sitedescription{background-color: rgb(255, 238, 1);}
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .Footer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+     
